@@ -1,10 +1,10 @@
 # AuNP-SERS-MNP-XAI
 
-Minimal public repository for the manuscript:
+Public repository for the manuscript:
 
 **Reconfigurable Au Nanoparticle Monolayers on Regenerated Cellulose Hydrogels: Highly Sensitive SERS Detection of Polystyrene Micro/Nanoplastics with Interpretable Deep Learning**
 
-This repository provides the minimum public materials needed to inspect the data format, preprocessing workflow, label definitions, group-wise validation summary, Transformer model implementation, and XAI analysis workflow used in the manuscript.
+This repository provides the public materials needed to inspect the data format, preprocessing workflow, label definitions, group-wise validation summary, Transformer model implementation, and XAI analysis workflow used in the manuscript.
 
 ## What is included
 
