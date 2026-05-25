@@ -1,0 +1,6 @@
+label,meaning,role_in_dataset
+PS,polystyrene micro/nanoplastics,primary analytical target
+CV,crystal violet,co-existing SERS-active dye
+Thi,thiram,co-existing pesticide; stored as TR in some source files
+PE,polyethylene microplastics,secondary polymer label
+R6G,rhodamine 6G,co-existing SERS-active dye

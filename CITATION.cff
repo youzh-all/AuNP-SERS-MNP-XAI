@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: AuNP-SERS-MNP-XAI
+authors:
+  - family-names: Jeon
+    given-names: Youngho
+  - family-names: Jeon
+    given-names: Yu-Jin
+message: "If you use this repository, please cite the associated manuscript."
+version: 0.1.0

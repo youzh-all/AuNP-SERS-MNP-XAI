@@ -1,0 +1,7 @@
+target_label,analyte_peak_cm-1,peak_assignment,n_test_samples,any_support_rate,exact_rate,partial_rate,best_support,best_ig_peak_or_region
+PS,1002,ring breathing (C-C),408,0.7328,0.3676,0.3652,yes,1002.4
+PS,1032,C-H in-plane bending,408,0.7377,0.1642,0.5735,yes,1030.5
+PE,1065,C-C symmetric stretching,68,0.9853,0.9118,0.0735,yes,1064.5
+PE,1298,CH2 twisting,68,0.0294,0.0000,0.0294,partial,1251.4~1251.4
+Thi,1140,CH3 rocking or C-N stretching,136,0.9118,0.7647,0.1471,yes,1137.8
+R6G,613,ring in-plane bending (C-C-C),68,0.6765,0.0000,0.6765,partial,565.7~565.7

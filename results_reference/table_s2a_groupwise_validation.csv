@@ -1,0 +1,2 @@
+validation_protocol,split_definition,test_spectra,exact_match,micro_precision,micro_recall,micro_f1,macro_f1
+Group-wise split,train groups 1-22; validation groups 23-44; test groups 45-200,408,0.8799,0.9669,0.9570,0.9619,0.9469

@@ -1,0 +1,6 @@
+section,condition,micro_f1,mean_prob_PS,mean_prob_CV,mean_prob_Thi,mean_prob_PE,mean_prob_R6G
+Unseen combination types,PS+R6G,0.6601,1.0000,0.6562,0.0061,0.7135,0.3329
+Unseen combination types,CV+Thi,0.4962,1.0000,0.9824,0.0203,0.0490,0.0078
+Unseen concentration ratios (PS+CV),0.001 mg/mL,0.5277,1.0000,0.6450,0.0001,0.1471,0.0230
+Unseen concentration ratios (PS+CV),0.1 mg/mL,0.9071,1.0000,0.9621,0.0000,0.0006,0.0051
+Unseen concentration ratios (PS+CV),1 mg/mL,0.7713,1.0000,0.9255,0.0016,0.0006,0.0006

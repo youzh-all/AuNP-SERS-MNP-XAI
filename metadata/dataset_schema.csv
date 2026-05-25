@@ -1,0 +1,6 @@
+file,column,description
+data_sample/sample_spectra.csv,sample_id,unique sample identifier
+data_sample/sample_spectra.csv,397.181 ...,SERS intensity at each Raman shift / wavenumber column
+data_sample/sample_metadata.csv,condition,plus-separated positive labels
+data_sample/sample_metadata.csv,group_id,acquisition group index used for group-wise splitting
+data_sample/sample_labels.csv,"PS,CV,Thi,PE,R6G",binary multi-label target vector
