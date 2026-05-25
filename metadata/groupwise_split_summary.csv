@@ -1,2 +1,2 @@
 protocol,train_groups,validation_groups,test_groups,note
-group-wise split,1-22,23-44,45-200,spectra from the same acquisition group were not shared across subsets
+group-wise split,1-66,67-132,133-200,spectra from the same acquisition group were not shared across subsets
